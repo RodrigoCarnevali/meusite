@@ -1,0 +1,39 @@
+@charset "UTF-8"
+
+<body>
+	p{
+		text-align: justify;
+		text-indent: 50px;	
+	}
+
+	h1 {
+		font-family:arial;
+		font-size: 30pt;
+		color: blue;
+		text-shadow: 2px 2px 20px red;
+		}
+	
+	h2 {
+		font-family:arial;
+		font-size: 20pt;
+		color: red;
+		text-shadow: 2px 2px 20px blue;
+	    }
+	
+    h3 {
+        font-family:arial;
+        font-size: 20pt;
+        color: red;
+        text-shadow: 2px 2px 20px blue;
+            }
+</body>
+
+figure.foto-legenda {
+    border: 8px solid red;
+}
+figure.foto-legenda img {
+    width: 100%;
+    height: 100;
+}
+
+
